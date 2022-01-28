@@ -1,0 +1,34 @@
+body {
+    background-color: blanchedalmond;
+    margin-left: 5%;
+    border: 2px solid black;
+    padding: 20px;
+    margin-right: 10%;
+
+}
+
+.headings {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+
+img {
+    width: 600px;
+    height: 325px;
+    border: 3px dotted navy
+}
+
+#quote {
+    font-style: italic;
+}
+
+#author {
+    background-color: lightgray;
+    width: 150px;
+}
+
+#setup {
+    color: maroon;
+}
